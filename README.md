@@ -35,3 +35,5 @@ Select the range that contains your data (including the headers).<br>
 Go to the "Data" tab and click on "Remove Duplicates."<br>
 Ensure that all the relevant columns (Name, Subject, CGPA) are selected.<br>
 Click "OK" to remove the duplicate rows.<br>
+
+7. <a href="/data-validation.xlsx">Data Validation</a><br>
