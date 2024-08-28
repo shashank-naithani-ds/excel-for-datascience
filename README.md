@@ -18,3 +18,20 @@
 - - - If you need to remove subtotal. Click on the subtotal option.<br>
 - - - Popup will open and click Remove all.<br>
 
+<br>
+5. <a href="/text-to-column.xlsx">Text To Column</a><br>
+
+Instructions for "Text to Columns" in Excel:<br>
+Paste the data into an Excel column.<br>
+Select the column where the data is pasted.<br>
+Go to the "Data" tab and click on "Text to Columns."<br>
+Choose "Delimited" and click "Next."<br>
+Select "Comma" as the delimiter and click "Finish."<br>
+
+6. <a href="/remove-duplicates.xlsx">Remove Duplicates</a><br>
+Instructions to Remove Duplicates in Excel:<br>
+Copy the data into an Excel sheet.<br>
+Select the range that contains your data (including the headers).<br>
+Go to the "Data" tab and click on "Remove Duplicates."<br>
+Ensure that all the relevant columns (Name, Subject, CGPA) are selected.<br>
+Click "OK" to remove the duplicate rows.<br>
