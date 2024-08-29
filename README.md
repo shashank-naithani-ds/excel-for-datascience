@@ -9,6 +9,7 @@
 - - - Go to DATA > Sort & Filter > Ungroup > Row /Column<br>
 - - - Shortcut key - shift + alt + left<br>
 4. <a href="/subtotal.xlsx">Subtotal</a> : -<br>
+Subtotal allows us to create groups and have a subtital for each group.
 - - First sort the data for the colum you want to get subtotal.
 - -  Go to DATA > Sort & Filter > Subtotal<br>
 - - Choose the column you sorted<br>
