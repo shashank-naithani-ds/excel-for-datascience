@@ -46,3 +46,12 @@ Click "OK" to remove the duplicate rows.<br>
 10. <a href="/vlookup-hlookup.xlsx">Vlookup & Hlookup</a><br>
 
 11. <a href="/match-index-offset-function.xlsx">Match,Index & offset Function</a><br>
+
+12. <a href="/sumif-function.xlsx">Sumif Function</a><br>
+
+13. <a href="/countif-function.xlsx">Countif Function</a><br>
+14. <a href="/percentile-function.xlsx">Percentile Function</a><br>
+15. <a href="/quartile-function.xlsx">Quartile Function</a><br>
+16. <a href="/median-function.xlsx">Median Function</a><br>
+17. <a href="/stdev-function.xlsx">Standard Deviation Function</a><br>
+18. <a href="/rank-function.xlsx">Rank Function</a><br>
